@@ -1,0 +1,16 @@
+name: UHI
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - plotnine
+  - pip
+  - leafmap
+  - geopandas
+  - jupyter_contrib_nbextensions
